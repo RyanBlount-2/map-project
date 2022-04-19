@@ -1,5 +1,5 @@
 # Map Project
-Map Project Showing Real-Time Tracking Updates For Bus Route
+Map Simulation Showing Real-Time Tracking Updates For Bus Route
 
 ![Map Project](Images/Map-Image.png "Map Project")
 <!-- <img src="Images/Map-Image.png" alt="Map Project" width="1000" height="600"> -->
