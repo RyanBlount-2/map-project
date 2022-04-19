@@ -1,5 +1,5 @@
 // Get access token at https://account.mapbox.com
-mapboxgl.accessToken = // 'Your Access Token Goes Here'
+mapboxgl.accessToken = // 'Your Access Token Goes Here' followed by a ';'
 
 // Accesses the Mapbox API
 let map = new mapboxgl.Map({
