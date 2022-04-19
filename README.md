@@ -1,7 +1,8 @@
-# Bus_Project
-Bus Project Showing Real-Time Tracking Updates
+# Map Project
+Map Project Showing Real-Time Tracking Updates For Bus Route
 
-# Bus-Tracking Interactive Animation
+![Map Project](Images/Map-Image.png "Map Project")
+<!-- <img src="Images/Map-Image.png" alt="Map Project" width="1000" height="600"> -->
 
 > ## **Description:**
    This is an interactive, real-time bus tracking animation created with HTML, CSS, JavaScript, & some images to showcase a few of the skills I've learned in the MIT xPro Coding Bootcamp.
