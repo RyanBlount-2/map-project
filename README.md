@@ -10,7 +10,7 @@
     Features Include:  
      - HTML, CSS, & JavaScript Source Code  
      - Object Animations  
-     - Popups Markers  
+     - Popup Markers  
 
 ## Instructions For Use:
 > You can access my project locally on your own computer by following the following steps:    
