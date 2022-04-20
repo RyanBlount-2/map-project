@@ -28,8 +28,8 @@
 ## Support:
 > [LinkedIn Profile](https://linkedin.com/in/ryanblount2)  
 
-## Roadmap:
-> Future improvements such as more interactivity and customization features are in the plans.  
+## Roadmap: 
+> Future improvements are in the plans. I'd like to add more interactivity for the user and customization of the bus routes. I plan to create options for users to select other bus routes they would like to see on the map as well as other transportation options.
 
 ## License:
 > MIT License
